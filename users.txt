@@ -1,0 +1,14 @@
+[
+  {
+    "id": "id_of_user_1",
+    "first_name": "name_of_user_1",
+    "last_name": "last_name_of_user_1",
+    "email": "email_of_user_1"
+  },
+  {
+    "id": "id_of_user_2",
+    "first_name": "name_of_user_2",
+    "last_name": "last_name_of_user_2",
+    "email": "email_of_user_2"
+  },
+]
